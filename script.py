@@ -23,9 +23,9 @@ from skimage.metrics import (adapted_rand_error,
                               variation_of_information)
 
 
-folder="/Users/albateixidovillanueva/Desktop/percepcion/orig"
+folder="PATH"
 
-folder_g_t = "/Users/albateixidovillanueva/Desktop/res/gt"
+folder_g_t = "PATH"
 
 
 
